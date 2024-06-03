@@ -2,7 +2,7 @@
 
 <h3 align="center">Curso Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile </br>
 Universidade Pontifícia Católica do Rio Grande do Sul (PUCRS) </br>
-Aluna: Willian Cordeiro Oliveira </h3>
+Aluno: Willian Cordeiro Oliveira </h3>
 
 ## Como executar o projeto
 
